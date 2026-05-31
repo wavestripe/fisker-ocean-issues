@@ -44,7 +44,6 @@ Each issue in the live knowledge base includes: the symptoms owners reported, li
 ## Notes
 
 - **Community-sourced, not OEM.** Verify before relying on any fix; some are single-owner reports. Severity reflects community impact, not an official safety rating.
-- Issue identifiers (e.g. fault codes) are kept; raw diagnostic command bytes and third-party tool names are deliberately omitted.
 - Operated by **Codestripes LLC**. Questions: hello@codestripes.net
 
 ---
