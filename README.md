@@ -43,7 +43,7 @@ Each issue in the live knowledge base includes: the symptoms owners reported, li
 
 ## Android app — beta
 
-A native **wavestripe Android app** is in early-access testing on Google Play: trip computer (energy per drive, average consumption, distance — km or miles), energy & charging losses, and the same diagnostics as the web app.
+A native **wavestripe Android app** is in early-access testing on Google Play: **live ABRP (A Better Route Planner) data** straight from the car — state of charge, battery power and temperature sent to ABRP while you drive, no phone app open — plus a trip computer (energy per drive, average consumption, distance — km or miles), energy & charging losses, and the same diagnostics as the web app.
 
 **Join the beta:** sign in at [wavestripe.app](https://wavestripe.app) → **Account → Android beta** → enter the Google account email you use on your phone's Play Store. You'll get an email with the install link as soon as you're added.
 
