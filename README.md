@@ -41,6 +41,12 @@ Each issue in the live knowledge base includes: the symptoms owners reported, li
 2. **Diagnose your own car:** pair a Bluetooth OBD-II adapter and run a full DTC scan, read live data, or clear codes — all in the browser, no app install.
 3. **Ask the AI:** every answer is grounded in this catalog plus the Fisker Ocean owner & service manuals.
 
+## Android app — beta
+
+A native **wavestripe Android app** is in early-access testing on Google Play: trip computer (energy per drive, average consumption, distance — km or miles), energy & charging losses, and the same diagnostics as the web app.
+
+**Join the beta:** sign in at [wavestripe.app](https://wavestripe.app) → **Account → Android beta** → enter the Google account email you use on your phone's Play Store. You'll get an email with the install link as soon as you're added.
+
 ## Notes
 
 - **Community-sourced, not OEM.** Verify before relying on any fix; some are single-owner reports. Severity reflects community impact, not an official safety rating.
